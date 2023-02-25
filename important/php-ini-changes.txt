@@ -1,0 +1,10 @@
+post_max_size=800M
+upload_max_filesize=2000M
+
+
+
+//please run => php artisan migrate --seed or php artisan migrate:refresh --seed
+
+-> super admin account:
+username: admin
+password: adminadmin
